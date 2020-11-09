@@ -1,0 +1,6 @@
+
+--oracle page to download jre7
+https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html
+
+--difference between Java SE and JRE
+https://www.quora.com/What-is-Java-SE-vs-JRE
