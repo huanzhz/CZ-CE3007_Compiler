@@ -14,8 +14,16 @@ https://github.com/ShearmanChua/CZ3007_Compiler-Techniques
 
 https://github.com/helloWorld141/CompilerLabs
 
+https://github.com/Silfer4560/CZ3007
+
 -2017
 
 -2016
 
 https://github.com/iamqingmei/CZ3007-Compiler-Techniques
+
+https://github.com/edwin-candinegara/CZ3007
+
+-2015
+
+https://github.com/triplerandy/CZ3007

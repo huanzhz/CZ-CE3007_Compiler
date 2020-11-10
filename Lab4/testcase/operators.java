@@ -104,3 +104,45 @@
 			new Object[0],
 			21);
 }
+
+@Test public void testComparison(){
+	runtest("module Test {" +
+			"  public boolean f() {" +
+			"    return  5 <= 4;" +
+			"  }" +
+			"}",
+			"Test",
+			"f",
+			new Class<?>[0],
+			new Object[0],
+			false);
+}
+
+@Test public void testAssignment(){
+	runtest("module Test {" +
+			"  public int f() {" +
+			"    int a;" +
+			"    a = 3;" +
+			"    return a;" +
+			"  }" +
+			"}",
+			"Test",
+			"f",
+			new Class<?>[0],
+			new Object[0],
+			3);
+}
+
+@Test public void testNegationAndAddition() {
+	runtest("module Test {" +
+			"  public int f() {" +
+			"    return -42 + 3;" +
+			"  }" +
+			"}",
+			"Test",
+			"f",
+			new Class<?>[0],
+			new Object[0],
+			-39);
+}
+
