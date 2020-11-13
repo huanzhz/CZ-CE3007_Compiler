@@ -1,4 +1,4 @@
-# CZ-CE3007_Compiler
+# CZ3007_Compiler
 
 Hello Friends :) I am glad that you are curious about HERE :D
 
@@ -10,11 +10,13 @@ https://github.com/ShearmanChua/CZ3007_Compiler-Techniques
 
 -2019
 
+https://github.com/joshenlim/CZ3007-Lab-Assignments		(only Lab1)
+
 -2018
 
 https://github.com/helloWorld141/CompilerLabs
 
-https://github.com/Silfer4560/CZ3007
+https://github.com/Silfer4560/CZ3007	(no Lab1)
 
 https://github.com/lzcaisg/CZ3007	(no Lab3)
 

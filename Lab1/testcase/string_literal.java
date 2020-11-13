@@ -22,6 +22,13 @@
 	}
 	
 	@Test
+	public void testStringLiteral3() {
+		runtest("\"\\\"", 
+				new Token(STRING_LITERAL, 0, 0, "\\"),
+				new Token(EOF, 0, 3, ""));
+	}
+	
+	@Test
 	public void testStringLiteral() {
 		runtest("\"\\n\"", 
 				new Token(STRING_LITERAL, 0, 0, "\\n"),
@@ -43,6 +50,13 @@
 				new Token(STRING_LITERAL, 0, 0, "asf"),
 				new Token(EOF, 0, 5, ""));
 
+	}
+	
+	@Test
+	public void testStringLiteral2() {
+		runtest("\"abc\"", 
+				new Token(STRING_LITERAL, 0, 0, "abc"),
+				new Token(EOF, 0, 5, ""));
 	}
 	
 	

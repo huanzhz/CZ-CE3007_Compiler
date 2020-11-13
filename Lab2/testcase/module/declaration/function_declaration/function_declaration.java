@@ -41,3 +41,17 @@
 				+ "}"
 				+ "}");
 	}
+	
+	
+	@Test
+	public void testFunctionCall(){
+		//test precondition
+		runtest("module Test{ public int function_name() {  } }");
+		
+		//test function call 
+		runtest("module Test{ public int function_name() { abc(); } }");
+		runtest("module Test{ public int function_name() { abc(a=1); } }");
+		runtest("module Test{ public int function_name() { abc(a=1,b=2); } }");		runtest("module Test{ public int function_name() { abc(a=1); } }");
+		runtest("module Test{ public int function_name() { abc(a,b); } }");
+		runtest("module Test{ public int function_name() { abc(1,2); } }");
+	}
