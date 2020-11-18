@@ -1,0 +1,20 @@
+
+1)Analysis -> Lexical Analysis, Syntax Analysis, Semantic Analysis
+2)Synthesis -> Optimization , Code Generation
+
+-What is Compiler | Short and Simple Explanation using Animation
+https://www.youtube.com/watch?v=Vi8npxRMGac
+
+-Compilation – Why learn about compilers?
+https://www.youtube.com/watch?v=cxNlb2GTKIc&list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh_
+
+-9. What Compilers Can and Cannot Do
+https://www.youtube.com/watch?v=ulJm7_aTiQM								% 26.48				
+understand that quiet guy that write much better and faster code.
+leal -> LEA (load effective address) do calculation of the address without writing to memory.
+https://stackoverflow.com/questions/11212444/what-does-the-leal-assembly-instruction-do
+leal (,%rdi,8), %eax	=>	uint32_t x = n * 8;
+(Register %rdi has the value of n)
+-> %rdi * 8 store at %eax
+leal (%rax,%rax,2), %eax
+Magic number	2^38/71+1 = $3871519817
