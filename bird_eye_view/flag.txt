@@ -2,11 +2,24 @@
 1)Analysis -> Lexical Analysis, Syntax Analysis, Semantic Analysis
 2)Synthesis -> Optimization , Code Generation
 
+-How does a compiler, interpreter, and CPU work?
+https://www.youtube.com/watch?v=OVTu4XcmnwE
+Source code to machine code
+compiler is faster than interpreter (why?, scan everything, scan parts of it) 
+
+
+-Compiler Design lecture 1-- Introduction and various phases of compiler
+https://www.youtube.com/watch?v=Qkwj65l_96I
+High level language to low level language
+stream of tokens -> parse tree -> AST -> 3 address code
+
 -What is Compiler | Short and Simple Explanation using Animation
 https://www.youtube.com/watch?v=Vi8npxRMGac
 
+
 -Compilation – Why learn about compilers?
 https://www.youtube.com/watch?v=cxNlb2GTKIc&list=PLTd6ceoshpreZuklA7RBMubSmhE0OHWh_
+
 
 -9. What Compilers Can and Cannot Do
 https://www.youtube.com/watch?v=ulJm7_aTiQM								% 26.48				
