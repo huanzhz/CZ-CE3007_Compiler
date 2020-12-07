@@ -55,3 +55,15 @@
 		runtest("module Test{ public int function_name() { abc(a,b); } }");
 		runtest("module Test{ public int function_name() { abc(1,2); } }");
 	}
+	
+	@Test
+	public void testModuleFunctionDeclaration() {
+		runtest("module Test {"
+				+ "public void fun() {"
+				+ "  int x;"
+				+ "  x = 5 + 7/3;"
+				+ "a[5] = 2; "
+				+ "fun(2,3);"
+				+ "}"
+				+ "}");
+	}

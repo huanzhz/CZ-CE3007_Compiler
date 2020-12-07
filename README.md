@@ -8,6 +8,8 @@ Credit to those genius for sharing :)
 
 https://github.com/ShearmanChua/CZ3007_Compiler-Techniques
 
+https://github.com/Bingzi-Li/CZ3007		(Lab 1 & 4)
+
 -2019
 
 https://github.com/joshenlim/CZ3007-Lab-Assignments		(only Lab1)
