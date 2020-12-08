@@ -4,6 +4,8 @@ Hello Friends :) I am glad that you are curious about HERE :D
 
 Credit to those genius for sharing :)
 
+![alt text](https://github.com/huanzhz/CZ-CE3007_Compiler/blob/main/genesis_block_3007.jpg)
+
 -2020
 
 https://github.com/ShearmanChua/CZ3007_Compiler-Techniques
