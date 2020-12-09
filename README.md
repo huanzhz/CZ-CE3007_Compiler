@@ -14,6 +14,14 @@ https://github.com/Bingzi-Li/CZ3007		(Lab 1 & 4)
 
 https://github.com/iReivax1/CZ3007
 
+https://github.com/hongyurain/CZ3007_lab	(Lab 1 & 2)
+
+https://github.com/QueTal/CZ3007-CompilerTechniques
+
+https://github.com/hoang010/CZ3007	(Lab 1 only)
+
+https://github.com/Sueaty/CZ3007-CompilerTechniques		(Lab 1 only, korean)
+
 -2019
 
 https://github.com/joshenlim/CZ3007-Lab-Assignments		(only Lab1)
