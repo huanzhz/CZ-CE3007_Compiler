@@ -26,6 +26,14 @@ https://github.com/Sueaty/CZ3007-CompilerTechniques		(Lab 1 only, korean)
 
 https://github.com/joshenlim/CZ3007-Lab-Assignments		(only Lab1)
 
+https://github.com/aarongangemi/Compiler-Techniques_CZ3007		(Lab 1,2,4)
+
+https://github.com/c170126/CZ3007_Compiler-		(only Lab 1)
+
+https://github.com/kkkkkwai/CZ3007		(Lab 1,2)
+
+https://github.com/bboyhao/CZ3007_Lab	(only Lab1)
+
 -2018
 
 https://github.com/helloWorld141/CompilerLabs
