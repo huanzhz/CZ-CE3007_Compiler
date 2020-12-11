@@ -42,6 +42,14 @@ https://github.com/Silfer4560/CZ3007	(no Lab1)
 
 https://github.com/lzcaisg/CZ3007	(no Lab3)
 
+https://github.com/SherryLGT/NTU-CZ3007-Labs
+
+https://github.com/rsokhonn/CZ3007-Compiler-Techniques	(only Lab1,2)
+
+https://github.com/Cheejyg/CZ3007-Compiler-Techniques-First-Laboratory-Assignment	(Lab 1)
+
+https://github.com/Cheejyg/CZ3007-Compiler-Techniques-Second-Laboratory-Assignment	(Lab 2)
+
 -2017
 
 -2016
