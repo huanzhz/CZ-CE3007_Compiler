@@ -52,6 +52,12 @@ https://github.com/Cheejyg/CZ3007-Compiler-Techniques-Second-Laboratory-Assignme
 
 -2017
 
+https://github.com/tzijie/CZ3007Lab	(Lab 1 & 2)
+
+https://github.com/zhijiee/CZ3007_Compiler_Techniques	(Lab 1)
+
+https://github.com/ravenlib/cz3007lab	
+
 -2016
 
 https://github.com/iamqingmei/CZ3007-Compiler-Techniques
